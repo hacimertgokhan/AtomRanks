@@ -1,0 +1,5 @@
+messages:
+    only_for_players: "&cYou cant run that command !"
+    no_enough_point: "&7You dont have a enough point for rank up."
+    has_no_island: "&7You have no island."
+    rank_up: "&7New rank &e%new_player_rank%"

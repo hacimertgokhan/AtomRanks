@@ -1,0 +1,14 @@
+name: AtomRanks
+version: '0.0.1'
+main: net.mixeration.atomseries.atomranks.AtomRanks
+api-version: 1.18
+prefix: AtomRanks
+load: STARTUP
+depend: [Vault, LuckPerms, FabledSkyBlock]
+authors: [Mixeration]
+website: mixeration.github.io
+loadbefore: [Vault]
+
+commands:
+    Rankup:
+        usage: /Rankup

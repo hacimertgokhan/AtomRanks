@@ -1,0 +1,19 @@
+atom-ranks:
+    prefix: "&a(AtomRanks) &r"
+    default-group: default
+
+Ranks:
+    Example:
+        point: 100
+        nextRankPriority: 1
+        name: "Example"
+        group: "Example"
+        commands:
+            - "lp user %player% parent set example"
+    Example2:
+        point: 300
+        nextRankPriority: 2
+        name: "Example2"
+        group: "Example2"
+        commands:
+            - "lp user %player% parent set example2"

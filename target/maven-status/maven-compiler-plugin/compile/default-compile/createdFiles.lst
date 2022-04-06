@@ -1,0 +1,12 @@
+net\mixeration\atomseries\atomranks\AtomRanks.class
+net\mixeration\atomseries\atomranks\naturalatom\message.class
+net\mixeration\atomseries\atomranks\utils\hashmaps.class
+net\mixeration\atomseries\atomranks\naturalatom\config.class
+net\mixeration\atomseries\atomranks\naturalatom\register\commands.class
+net\mixeration\atomseries\atomranks\naturalatom\depend\vault.class
+net\mixeration\atomseries\atomranks\modules\console.class
+net\mixeration\atomseries\atomranks\naturalatom\register\events.class
+net\mixeration\atomseries\atomranks\storage\player.class
+net\mixeration\atomseries\atomranks\commands\up.class
+net\mixeration\atomseries\atomranks\naturalatom\depend\luckperms.class
+net\mixeration\atomseries\atomranks\naturalatom\depend\fabledskyblock.class
